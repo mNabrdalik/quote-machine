@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mNabrdalik/quote-machine/static/css/main.4a78a260.css",
+    "main.js": "/mNabrdalik/quote-machine/static/js/main.1aa5fb45.js",
+    "static/js/787.e43a185d.chunk.js": "/mNabrdalik/quote-machine/static/js/787.e43a185d.chunk.js",
+    "static/media/twitter.svg": "/mNabrdalik/quote-machine/static/media/twitter.6d8c15943249b38bbbc1a64310cb8f56.svg",
+    "index.html": "/mNabrdalik/quote-machine/index.html",
+    "main.4a78a260.css.map": "/mNabrdalik/quote-machine/static/css/main.4a78a260.css.map",
+    "main.1aa5fb45.js.map": "/mNabrdalik/quote-machine/static/js/main.1aa5fb45.js.map",
+    "787.e43a185d.chunk.js.map": "/mNabrdalik/quote-machine/static/js/787.e43a185d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a78a260.css",
+    "static/js/main.1aa5fb45.js"
+  ]
+}
